@@ -37,5 +37,6 @@ data/                      input data goes here - not included (see data/README.
 
 ## Licence
 
-The code is licensed under GPL-3.0, see `LICENSE`. The licence covers the code only; no input
-data is distributed with this repository.
+MIT, see LICENSE.
+
+
